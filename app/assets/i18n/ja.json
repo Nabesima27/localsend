@@ -219,7 +219,7 @@
     "savedToGallery": "写真に保存しました",
     "total": {
       "title": {
-        "sending": "総進捗 ({time})",
+        "sending": "残り ({time})分",
         "finishedError": "エラーで終了しました",
         "canceledSender": "送信者によりキャンセルされました",
         "canceledReceiver": "受信者よりキャンセルされました"
