@@ -177,7 +177,7 @@
     "empty": "履歴には何もありません。",
     "entryActions": {
       "open": "ファイルを開く",
-      "showInFolder": "フォルダーに表示",
+      "showInFolder": "フォルダーを表示",
       "info": "情報",
       "deleteFromHistory": "履歴から削除"
     }
